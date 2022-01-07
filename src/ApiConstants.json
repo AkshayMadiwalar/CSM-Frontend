@@ -1,0 +1,6 @@
+{
+    "Service" : {
+        "identity":"http://localhost:5000",
+        "order":"http://localhost:5001"
+    }
+}
